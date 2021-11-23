@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 </p>
 
-* 📱  Software engineer.
+*  📱  Software engineer.
 * 🌱 Continous Learner
 * 🎤 Loves reading, fountain pens and sketchnoting.
 * 😁 Nice to meet you!
