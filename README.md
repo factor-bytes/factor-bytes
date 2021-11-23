@@ -1,4 +1,21 @@
-### Hi there 👋
+<p align="center">
+<!--<img src="https://github.com/TimOliver/TimOliver/raw/main/header.png" width="410" alt="iComics on an iPhone XS Max" align="right" /> -->
+</p>
+
+# Hi There, I'm Pardeep. 😃
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prdsingh/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://www.twitter.com/pardpsingh">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+</p>
+
+* 📱  Software engineer.
+* 🌱 Continous Learner
+* 🎤 Loves reading, fountain pens and sketchnoting.
+* 😁 Nice to meet you!
+
 
 <!--
 **prdpsingh/prdpsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
