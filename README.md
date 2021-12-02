@@ -10,7 +10,8 @@
 <a href="https://www.twitter.com/pardpsingh">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 </p>
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+About
 *  📱  A passionate software engineer, who loves to solve problems.
 * 🌱 Continous Learner
 * 🎤 Loves reading, fountain pens and sketchnoting.
