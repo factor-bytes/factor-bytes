@@ -15,10 +15,11 @@
 
 ### About
 
-*  📱  A passionate software engineer, who loves to solve problems.
+* 📱 A passionate software engineer, who loves to solve problems.
 * 🌱 Continous Learner
 * 🎤 Loves reading, fountain pens and sketchnoting.
 * 😁 Nice to meet you!
+* 👯 Connect with me on twitter or linkedin
 
 
 <!--
