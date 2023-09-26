@@ -5,10 +5,11 @@
 # Hi There, I'm Pardeep. 😃
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prdsingh/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<!--<a href="https://www.linkedin.com/in/prdsingh/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> -->
 <a href="https://www.twitter.com/pardpsingh">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+<a href="https://factor-bytes.com">My Blog</a>  
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,5 +23,5 @@
 * 👯 Connect with me on twitter or linkedin
 
 
-[![Pardeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=prdpsingh)](https://github.com/anuraghazra/github-readme-stats)
+[![Pardeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=factor-bytes)](https://github.com/anuraghazra/github-readme-stats)
 
