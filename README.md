@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> -->
 <a href="https://www.twitter.com/pardpsingh">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-<a href="https://factor-bytes.com">My Blog</a>  
+<a href="https://factor-bytes.com">My Blog - factor-bytes.com</a>  
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,9 +18,9 @@
 
 * 📱 A passionate software engineer, who loves to solve problems.
 * 🌱 Continous Learner
-* 🎤 Loves reading, fountain pens and sketchnoting.
+* 🎤 Loves reading, fountain pens, and sketchnoting.
 * 😁 Nice to meet you!
-* 👯 Connect with me on twitter or linkedin
+* 👯 Connect with me on Twitter or linkedin
 
 
 [![Pardeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=factor-bytes)](https://github.com/anuraghazra/github-readme-stats)
