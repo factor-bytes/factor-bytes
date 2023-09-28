@@ -8,7 +8,7 @@
 <!--<a href="https://www.linkedin.com/in/prdsingh/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> -->
 <a href="https://www.twitter.com/pardpsingh">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> <br>
 <a href="https://factor-bytes.com">My Blog - factor-bytes.com</a>  
 </p>
 
